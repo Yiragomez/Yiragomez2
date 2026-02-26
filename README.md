@@ -1,4 +1,4 @@
-<img src="/img.jpg/imagen.jpg.png">
+<img src="/presentacion.jpg.png">
 
 👋 Acerca de mí
 
